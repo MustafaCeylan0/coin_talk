@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929540785293",
+    "project_id": "cryptotalk-9ea72",
+    "storage_bucket": "cryptotalk-9ea72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929540785293:android:8232ca77597a6a42a20ec4",
+        "android_client_info": {
+          "package_name": "com.example.cointalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929540785293-2ncbnfvlc32ask0n85n45s56ffg5hth9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQk8AKV5BfqQvXwzPJ9s6ynG8C0wza1dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929540785293-2ncbnfvlc32ask0n85n45s56ffg5hth9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
